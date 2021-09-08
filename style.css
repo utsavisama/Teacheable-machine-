@@ -1,0 +1,31 @@
+body{
+    color: purple;
+    background-image: url("ed3.jpg");
+    background-size: cover;
+    
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed palevioletred;
+    width: 350px;
+    height: 300px;
+}
+
+.Bluish_purple_btn {
+    background-color: navy;
+    color: white;
+}
+
+.rose_pink_btn {
+    background-color: deeppink;
+    color: white;
+}
+
+.name_off_objects, #result_object_name, #result_object_accuracy {
+color: yellow;
+}
